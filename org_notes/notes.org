@@ -1,0 +1,9 @@
+* Proper notes for org files. 
+** TODO Finish the section on org-mode todog@gmail.com
+*** DONE Then i'll go back to \(\TeX\) stuff for a while
+    \[\int_x\]
+*** TODO WAITING I can really easily (lazily) do some project management here. 
+*** BUG FEEDBACK [#C] I am a rocdddddet man.  
+*** TODO research completion interfaces for emacs
+**** TODO try iswitchb
+**** TODO try ido
