@@ -1,0 +1,47 @@
+#+STARTUP: overview
+#+TITLE Philippines Vacation
+
+* TODO Philippines Vacation
+** Travel to the Philipines Thursday June 7th
+
+Todo
+| Local  | EST    | What I am Doing                                                               | $CAD |
+|--------+--------+-------------------------------------------------------------------------------+------|
+| 4AM    | 4AM    | Breakfast at home, head out for YYZ!                                          |      |
+| 5AM    | 5AM    | Arrive at YYZ, Park and fly and head for Airport                              |      |
+| 7AM    | 7AM    | Depart YYZ Gate D39, flight will serve lunch.                                 |      |
+| 9AM    | 12PM   | Arrive in Vancouver International.                                            |      |
+| 9AM    | 12PM   | Have a brief visit in Vancouver. Head to the pacific for the first time ever! | $35  |
+| 11AM   | 2PM    | Head back to the airport. Eat at the airport                                  | $20  |
+| 1:30PM | 4:30PM | Board AC Flight 7                                                             |      |
+| 5:30PM | 5:30AM | Arrive in Hong Kong                                                           |      |
+| 5:30PM | 5:30AM | 4h37m layover in Hong Kong International. Get some breakfast                  | $30  |
+| 8:30PM | 8:30AM | Board AC Flight 9789                                                          |      |
+
+  
+ Fill in flight info. 
+Thursday January 7th
+The trip will start in Pearson INTL (YYZ). I am to board air Canada Boeing 787-9 flight 101 at 7AM EST and travel to 
+Vancouver International.
+In favorable winds this flight is about 4:45 minutes, average flight time is just short of 5 hours. 
+I will have a 4h 37m layover in Vancouver. This is ideal to have a look around. I plan of taking a cab just down the road to terminus to
+get a couple of photos and have a look at the pacific ocean. 
+At 1:30 PDT I will board Air Canada flight 7 to Hong Kong. This flight takes a northbound heading along the coast and accross Alaska.
+This flight averages 13 hours. Landing at 5:30 HKT (UTC+8). There will be a 3h layover in Hong Kong. 
+I don't think this length of layover allows me to do anything outside of the airport. I will likely just park in the airport somewhere
+and get some pushups or something in. Man my legs are going to be asleep. 8:30 (HKT) I will board Air Canada flight 9798 on an 
+Airbus A330-300 to Manila this will land in Manila at roughly 10:50 PM. Hong Kong and Manilla are actually in the same time zone. 
+
+** Travel to Dipolog
+
+TODO book holiday in express in Manila airport and confirm I can walk from the hotel to the Airport.
+
+I will be spending the night in Manila. WE are going to book the holiday inn express which is right across the road form Terminal 3. 
+Both flights are at terminal 3 and the hotel is a short walk form the hotel. This will allow me to catch up on a bit of sleep.  
+The flight from Manila to Dipolog is the first non Air Canada flight I will take during the trip. Soon I will meet up with my
+beloved! I will fly on flight 5J 703 on an Airbus A320. This is about a 1h 30m flight and should land in Dipolog around 11:35. 
+
+
+
+
+
