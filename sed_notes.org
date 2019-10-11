@@ -1,0 +1,45 @@
+
+* Sed
+Sed is a Stream EDitor.
+
+** TODO 2.1 Overview
+#+BEGIN_SRC bash :shebang #!/bin/bash -i :results output
+
+sed 's/hello/world/' hello.txt
+
+#+END_SRC
+
+#+RESULTS:
+: this is a test of the world world broadcast system.
+: Please refrain from paging at time and shutdown all '
+: loud mouth things.
+: 
+: Hello world_ \hello
+
+#+BEGIN_SRC C  :results output :includes <stdio.h> :var instr="test"
+printf("Hello ORG Babel\n%s", instr); 
+#+END_SRC
+
+#+RESULTS:
+: Hello ORG Babel
+: test
+
+#+NAME:somedata
+| a |  b | c    |
+|---+----+------|
+| 7 | 12 | get2 |
+| 8 | 15 |      |
+#+TBLFM: $3=get2
+
+lets make c = a+b but using C code. 
+
+#+NAME:get2
+#+BEGIN_SRC C :var somedata=somedata
+for (int i=0; i<somedata_rows; i++) { 
+somedata[i][3] = atoi(somedata[i][1]) + atoi(somedata[i][2]);
+}
+printf("%d\n", somedata_rows);
+#+END_SRC
+
+#+RESULTS:
+: 2
